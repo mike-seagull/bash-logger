@@ -9,8 +9,8 @@ How to use it:
 
 logs available:
 
-debug <message>
-info <message>
-warning <message>
-error <message>
-fatal <message>
+- debug \<message\>
+- info \<message\>
+- warning \<message\>
+- error \<message\>
+- fatal \<message\>
